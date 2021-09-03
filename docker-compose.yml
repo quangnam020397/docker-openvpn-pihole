@@ -2,7 +2,6 @@ version: '3'
 # https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md
 
 services:
-
   nginx:
     container_name: nginx
     restart: always
@@ -33,7 +32,6 @@ services:
     ports:
       - "1194:1194/udp"
       - "1194:1194/tcp"
-      - "943:943/tcp"
     environment:
      #  - VIRTUAL_PORT=${VIRTUAL_PORT_OPENVPN}
      #  - VIRTUAL_HOST=${VIRTUAL_HOST_OPENVPN}
@@ -57,9 +55,10 @@ services:
       options:
         max-size: "10m"
         max-file: "3"
+
   pihole:
     image: pihole/pihole
-    container_name: vpn_pihole
+    container_name: pihole
     cap_add:
       - NET_ADMIN     
     dns:
@@ -67,10 +66,11 @@ services:
       - 1.1.1.1
     depends_on:
       - openvpn
-    ports:
+    hostname: pihole
+    #ports:
       #- "553:53/tcp"
       #- "553:53/udp"
-      - "8081:80/tcp"
+      #- "8081:80/tcp"
     environment:
       WEBPASSWORD: fcvFjLIO2hWhkFCi
 # 1 Digitalcourage | #2 Chaos Computer Club
