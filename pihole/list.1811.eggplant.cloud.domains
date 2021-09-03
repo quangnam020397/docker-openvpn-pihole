@@ -1,0 +1,2 @@
+_gaq.push(['_trackpageview']);
+_gaq.push(['_trackpageloadtime']);

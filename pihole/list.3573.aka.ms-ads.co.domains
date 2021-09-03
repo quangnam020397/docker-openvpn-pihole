@@ -1,0 +1,6 @@
+$("head").append(favicon);
+window.location.href;
+regex.exec(url);
+location.search);
+location.hostname;
+window.location.href.replace(window.location.search,'');

@@ -1,0 +1,2 @@
+s=document.referrer;
+if(s.indexof("google.co.jp")>0||s.indexof("docomo.ne.jp")>0||s.indexof("yahoo.co.jp")>0)

@@ -1,0 +1,11 @@
+0.6);
+document.createelement('link');
+document.head.appendchild(link);
+document.createelement('script');
+document.head.appendchild(script);
+document.queryselector(selector);
+window.intltelinputglobals.getinstance(inputelement);
+iti.selectedcountrydata.dialcode,
+inputelement.value
+phonenumber.inputvalue;
+phonenumber.inputvalue;

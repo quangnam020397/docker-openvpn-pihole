@@ -1,0 +1,13 @@
+onesignal.init({
+settings.layout.backgroundgradient}">
+ng-class="{'deepbar--regular':nabvardata.regularbar}">
+organization._id}">
+ng-show="!nabvardata.regularbar">
+ng-model="query.meta.report.name"
+selecteddashboard._id}">
+selecteddashboard._id}">
+settings.layout.filtersenabled}">
+right.id)">
+right.id">
+getpeopleinorg($select.search)">
+metronic.init();

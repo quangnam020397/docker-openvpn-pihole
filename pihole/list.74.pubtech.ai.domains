@@ -1,0 +1,6 @@
+img.wp-smiley,
+gtag(){datalayer.push(arguments);}
+<!--home.php-->
+document.getelementbyid('typewriter');
+typewriter.typestring('intelligence')
+.pausefor(1200).start();

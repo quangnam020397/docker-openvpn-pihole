@@ -1,0 +1,8 @@
+$(this).addclass('open');
+$(this).addclass("active");
+$(this).attr("id");
+$(".showinform").hide();
+"").show();
+$(this).removeclass("active");
+document.createelement("script");
+document.getelementsbytagname("script")[0];

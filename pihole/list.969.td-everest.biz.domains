@@ -1,0 +1,15 @@
+h.appendchild(s);
+s=screen;a+=';s='+s.width+'*'+s.height;
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colordepth?
+screen.colordepth:screen.pixeldepth))+";u"+escape(document.url)+
+";"+math.random()+
+hotlog_r=""+math.random()+"&s=2037444&im=33&r="+
+escape(document.referrer)+"&pg="+escape(window.location.href);
+hotlog_r+="&j="+(navigator.javaenabled()?"y":"n");
+hotlog_r+="&wh="+screen.width+"x"+screen.height+"&px="+
+(((navigator.appname.substring(0,3)=="mic"))?screen.colordepth:screen.pixeldepth);
+hotlog_js="1.3";
+ya.metrika({id:26136474,
+d.getelementsbytagname("script")[0],
+d.createelement("script"),

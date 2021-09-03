@@ -1,0 +1,7 @@
+document.createelement('script');
+window.location.protocol.split(':')[0];
+document.getelementsbytagname("script")[0];
+document.createelement("script");
+document.getelementsbytagname("script")[0];
+document.createelement("script");
+document.getelementsbytagname("script")[0];

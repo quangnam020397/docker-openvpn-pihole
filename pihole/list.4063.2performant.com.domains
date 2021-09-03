@@ -1,0 +1,11 @@
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+hbspt.forms.create(formdef);
+hbspt._wpformsqueue.push(formdef);
+hbspt._wpcreateform;
+hbspt._wpformsqueue.shift();
+document.getelementbyid(formscriptid);
+{"userrole":"visitor","pagetype":"home","leadinpluginversion":"8.4.5"};
+window.llvconfig=window.llvconfig||{};window.llvconfig.youtube={"colour":"red","buttonstyle":"css_black","controls":true,"loadpolicy":true,"thumbnailquality":"0","preroll":"","postroll":"","overlaytext":"","loadthumbnail":true,"cookies":false,"callback":"<!--youtube_callback-->"};
+window.llvconfig=window.llvconfig||{};window.llvconfig.vimeo={"buttonstyle":"css_black","playercolour":"

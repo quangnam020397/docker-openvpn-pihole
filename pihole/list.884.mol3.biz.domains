@@ -1,0 +1,2 @@
+window.top;
+window.location.replace(forwardingurl);

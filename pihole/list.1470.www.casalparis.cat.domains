@@ -1,0 +1,7 @@
+img.wp-smiley,
+d.getelementsbytagname(s)[0];
+d.createelement(s);
+window.addeventlistener('sfsi_functions_loaded',function()
+sfsi_plugin_version(2.63);
+jquery(ref).find('input[name="email"]').val();
+jquery(ref).find('input[name="email"]').focus();

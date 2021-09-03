@@ -1,0 +1,5 @@
+content="123compteur.com">
+action="newsletter.php">
+_gaq.push(['_trackpageview']);
+document.createelement('script');
+document.getelementsbytagname('script')[0];

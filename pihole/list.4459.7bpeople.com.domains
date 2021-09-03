@@ -1,0 +1,3 @@
+"www.7bpeople.com";
+$.ajax({
+"pw":pw.val()},

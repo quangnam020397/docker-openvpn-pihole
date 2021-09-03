@@ -1,0 +1,2 @@
+app.model.base({"constructor":"app.model.base","wildcard_start_tag":"%%","wildcard_end_tag":"%%","cloud_host":"cdn-au.mailsnd.com","s3_host":"s3-ap-southeast-2.amazonaws.com","s3_vhost":"emarketing-au.s3-ap-southeast-2.amazonaws.com","s3_bucket":"emarketing-au"});
+app.model.base({"constructor":"app.model.base"});

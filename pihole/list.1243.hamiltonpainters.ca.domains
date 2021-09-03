@@ -1,0 +1,5 @@
+initial-scale=1.0">
+data-target=".nav-collapse">
+decades.<br>
+nearby.<br>
+$('.fancybox').fancybox();

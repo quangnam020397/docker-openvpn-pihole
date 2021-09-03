@@ -1,0 +1,11 @@
+f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+window.cookieconsent.initialise({
+window.setloginmodalsrc(src);
+top.document.getelementbyid('loginmodaliframe').setattribute("src",src);
+top.window.location.href;
+$(selector).modal('hide');
+document.createelement("script");
+document.body.appendchild(element);
+(window.addeventlistener)
+(window.attachevent)

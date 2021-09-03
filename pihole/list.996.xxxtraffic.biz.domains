@@ -1,0 +1,6 @@
+initial-scale=1.0">
+if($o.checked){
+$(window).load(function(){
+$('.nav-logo').hide()
+$('.nav-logo').fadein()
+$(document).ready(function(){

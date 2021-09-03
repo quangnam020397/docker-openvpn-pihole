@@ -1,0 +1,15 @@
+document.getelementbyid("tab-1").innerhtml;
+document.getelementbyid("tab-2").innerhtml;
+document.getelementbyid("tab-3").innerhtml;
+document.getelementbyid("tab-4").innerhtml;
+document.getelementbyid("tab-5").innerhtml;
+document.getelementbyid("tab-6").innerhtml;
+document.getelementbyid("tab-7").innerhtml;
+document.getelementbyid("tab-8").innerhtml;
+document.getelementbyid("tab-9").innerhtml;
+document.getelementbyid("tab-10").innerhtml;
+document.getelementbyid("tab-11").innerhtml;
+document.getelementbyid("tab-12").innerhtml;
+document.getelementbyid("tab-13").innerhtml;
+document.getelementbyid("tab-14").innerhtml;
+document.getelementbyid("tab-1").innerhtml;

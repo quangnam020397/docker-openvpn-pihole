@@ -1,0 +1,17 @@
+thumbmanager.setdefaultparameters({
+$(document).ready(function(){
+select.val();
+select.find('option[value="'+cityid+'"]');
+$('input[name="latitude"]').val(option.data('latitude'));
+$('input[name="longitude"]').val(option.data('longitude'));
+thumbmanager.getthumbs({
+thumbmanager.getthumbs({
+parseint($(this).data("step"));
+.text1').fadeout();
+$(stepout).fadeout(function(){
+$(stepin).fadein();
+event.preventdefault();
+jregistration.find('.error').hide();
+$('.btn_confirm').html('continuer');
+jregistration.addclass('myerror');
+jregistration.find('.error').show();

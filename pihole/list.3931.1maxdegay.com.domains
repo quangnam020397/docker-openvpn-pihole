@@ -1,0 +1,4 @@
+top.document.referrer;}
+'&hl='+xt_h.gethours()+'x'+xt_h.getminutes()+'x'+xt_h.getseconds();
+if(parsefloat(navigator.appversion)>=4)
+{xt_s=screen;xt_i+='&r='+xt_s.width+'x'+xt_s.height+'x'+xt_s.pixeldepth+'x'+xt_s.colordepth;}

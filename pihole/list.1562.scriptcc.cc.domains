@@ -1,0 +1,11 @@
+activexobject("microsoft.xmlhttp");
+config.data;
+tmparr[i].split('=');
+sendstring.join('&');
+window.xdomainrequest();
+config.success(xmlhttp.responsetext);
+config.url);
+xmlhttp.send(sendstring);
+xmlhttp.readystate);
+config.method);
+xmlhttp.send(sendstring);

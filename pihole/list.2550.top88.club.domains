@@ -1,0 +1,14 @@
+gtag(){datalayer.push(arguments);}
+img.wp-smiley,
+.col-md-3.logo.mobile{
+.col-md-3.logo.mobile{display:none}
+15.7477194,
+101.4132682
+rgba(0,0,0,.1);
+document.getelementbyid('float_content_left');
+document.getelementbyid('hide_float_left');
+$(window).scroll(function(event){
+$(this).scrolltop();
+$('.scroll_banner').addclass('scroll_banner--show');
+$('.scroll_banner').removeclass('scroll_banner--show');
+navigator.connection&&("2g"===navigator.connection.effectivetype||"slow-2g"===navigator.connection.effectivetype)}}]),rocketbrowsercompatibilitychecker}();

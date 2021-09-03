@@ -1,0 +1,3 @@
+"30ads.com";
+$.ajax({
+"pw":pw.val()},

@@ -1,0 +1,5 @@
+img.wp-smiley,
+gtag(){datalayer.push(arguments);}
+button.mfp-close{
+gtag(){datalayer.push(arguments);}
+hbspt.forms.create({

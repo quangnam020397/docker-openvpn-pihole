@@ -1,0 +1,17 @@
+hbspt.forms.create(formdef);
+hbspt._wpformsqueue.push(formdef);
+hbspt._wpcreateform;
+hbspt._wpformsqueue[i];
+gtag(){datalayer.push(arguments);}
+{if(f.fbq)return;n=f.fbq=function(){n.callmethod?
+n.callmethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version=‘2.0’;
+n.queue=[];t=b.createelement(e);t.async=!0;
+t.src=v;s=b.getelementsbytagname(e)[0];
+window.pintrk.queue.push(array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createelement("script");t.async=!0,t.src=e;var
+r=document.getelementsbytagname("script")[0];
+gtag(){datalayer.push(arguments);}
+selected."};
+{"userrole":"visitor","pagetype":"home","leadinpluginversion":"7.45.6"};

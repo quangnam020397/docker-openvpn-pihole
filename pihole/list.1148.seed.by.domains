@@ -1,0 +1,10 @@
+div.central{
+width:99.5%;
+$('input[name="name"]').val();
+$('input[name="email"]').val();
+$('textarea[name="message_text"]').val();
+позже.');
+$('input[name="name"]').removeattr('disabled');
+$('input[name="email"]').removeattr('disabled');
+$('input[name="sub_button"]').removeattr('disabled');
+$('textarea[name="message_text"]').removeattr('disabled');

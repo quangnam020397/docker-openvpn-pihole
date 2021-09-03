@@ -1,0 +1,2 @@
+d.getelementsbytagname(s)[0];
+obj.width=300;obj.height=223;obj.wmode="transparent";showclock(obj);

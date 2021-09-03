@@ -1,0 +1,14 @@
+date();a=s.createelement(o),
+m=s.getelementsbytagname(o)[0];a.async=1;a.src=g;m.parentnode.insertbefore(a,m)
+(a[n]=a[n]||[]).hide=h;settimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentelement,'async-hide','datalayer',4000,
+'mtm.start'});
+s=d.getelementsbytagname('script')[0];
+document.createelement("script");
+document.getelementsbytagname("script")[0];
+onclick="$(this).addclass('layui-hide');$('.header-navilist').addclass('layui-hide');$('.topsearch').removeclass('layui-hide');$('.logo').addclass('mt11')">
+document.createelement("script");
+document.getelementsbytagname("script")[0];
+gtag(){datalayer.push(arguments);}
+date();a=s.createelement(o),
+m=s.getelementsbytagname(o)[0];a.async=1;a.src=g;m.parentnode.insertbefore(a,m)

@@ -1,0 +1,4 @@
+initial-scale=1.0">
+"mailto:7lyonline.com@gmail.com"
+escape(document.getelementbyid('frmsubject').value)
+escape(document.getelementbyid('frmmsg').value)

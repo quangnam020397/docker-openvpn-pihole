@@ -1,0 +1,5 @@
+"spotlight_categorymember.sortorder"));
+"link_categorymember.sortorder"));
+require_once("pagehead.php");
+$objsmarty->display("index.tpl");
+require_once("pagefoot.php");

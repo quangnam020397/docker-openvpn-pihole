@@ -1,0 +1,5 @@
+onclick="$('.navbar-collapse
+if(window.addeventlistener){
+$('form.recaptcha').submit();
+if(!recaptchastate.initialized){
+$('.lazy').lazy({

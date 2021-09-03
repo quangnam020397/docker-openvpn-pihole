@@ -1,0 +1,3 @@
+[]).push({
+gtag(){datalayer.push(arguments);}
+document.createelement("script");

@@ -1,0 +1,7 @@
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+padding:0;margin:0;display:inline;background:transparent;border:none;font:inherit;font-size:1.4rem;-webkit-appearance:none;color:
+document.queryselector(".primary-footer__bottom-links");
+me.disconnect();
+.col-lg-6.offset-lg-4")

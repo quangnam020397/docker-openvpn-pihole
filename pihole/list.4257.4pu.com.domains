@@ -1,0 +1,14 @@
+$(document).ready(function(){
+$('.hosting-ul').hide();
+$('.hosting1-ul').hide();
+$('.hosting-ul').hide();
+$('.hosting1-ul').hide();
+$(this).fadeout();
+$('.hosting-ul').fadetoggle();
+$('.hosting1-ul').fadetoggle();
+li").hover(function(){
+document.getelementbyid("mobilenav");
+date();a=s.createelement(o),
+m=s.getelementsbytagname(o)[0];a.async=1;a.src=g;m.parentnode.insertbefore(a,m)
+inc.<br>
+jquery(".royalslider").royalslider({

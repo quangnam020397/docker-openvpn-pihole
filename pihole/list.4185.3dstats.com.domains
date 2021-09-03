@@ -1,0 +1,3 @@
+top.location=self.document.location;
+document.createelement('script');
+=document.getelementbyid("3dstats");

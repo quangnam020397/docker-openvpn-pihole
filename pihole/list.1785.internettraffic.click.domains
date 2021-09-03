@@ -1,0 +1,4 @@
+"i").exec(location.search);
+"i").exec(location.search);
+match.split(",");
+$.ajax({

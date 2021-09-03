@@ -1,0 +1,7 @@
+img.wp-smiley,
+left:auto;margin-left:.3em;
+line-height:1.7em;
+jquery(this).parent().innerwidth();
+jquery(this).attr('data-ratio');
+jquery(iframe).insertafter(jquery(this));
+jquery(this).remove();

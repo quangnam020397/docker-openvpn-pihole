@@ -1,0 +1,9 @@
+date();a=s.createelement(o),
+m=s.getelementsbytagname(o)[0];a.async=1;a.src=g;m.parentnode.insertbefore(a,m)
+'linkid.js');
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+f=d.getelementsbytagname(s)[0],
+j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
+w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createelement(t),
+m=d.getelementsbytagname(t)[0];a.async=1;a.src=u;m.parentnode.insertbefore(a,m)
+d.getelementsbytagname(s)[0];

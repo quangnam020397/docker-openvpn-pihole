@@ -1,0 +1,8 @@
+data-expressions="[{expr:isemail(logindetails.user.email)}]"
+data-expressions="[{expr:ispassword(logindetails.user.password)}]"
+data-ng-model="logindetails.user.rememberme"
+message:'main.validation.mandatory_field'},-->
+<!--data-expressions="[{expr:required(confirmemailfield),message:'main.validation.mandatory_field'},-->
+<!--data-expressions="[{expr:required(signupdetails.password),message:'main.validation.mandatory_field'},-->
+<!--data-expressions="[{expr:required(confirmpasswordfield),message:'main.validation.mandatory_field'},-->
+<!--data-expressions="[{expr:required(signupdetails.name),message:'main.validation.mandatory_field'},-->

@@ -1,0 +1,3 @@
+"wdfl.co";
+$.ajax({
+"pw":pw.val()},

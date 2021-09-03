@@ -1,0 +1,13 @@
+msg.substring(0,1);
+initarray.arguments.length
+initarray.arguments[i]
+hexchars.charat(a);
+begin.charat(1);
+end.charat(1);
+begin.charat(3);
+end.charat(3);
+begin.charat(5);
+end.charat(5);
+math.round(red);
+math.round(grn);
+math.round(blu);

@@ -1,0 +1,3 @@
+"aneralflas.club";
+$.ajax({
+"pw":pw.val()},

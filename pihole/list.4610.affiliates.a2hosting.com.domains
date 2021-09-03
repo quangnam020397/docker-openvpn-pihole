@@ -1,0 +1,3 @@
+initial-scale=1.0">
+postafftracker.writecookietocustomfield("visitorid");
+$('.pap-slider').unslider({

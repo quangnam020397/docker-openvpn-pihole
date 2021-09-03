@@ -1,0 +1,2 @@
+navigator.platform;
+if(system.win||system.mac||system.xll){

@@ -1,0 +1,12 @@
+_host=location.host,_pos=_host.indexof(":");return(_pos==-1)?_host:_host.substring(0,_pos)}
+document.domain=main.replace("www.","");
+if(screen.width>=1400){_sts=1}else{_sts=0}
+document.getelementsbytagname("iframe")[0];
+ifm.height=_opt[0];
+ifm.width=_opt[1];
+doc.createelement('script'),
+doc.getelementsbytagname('head')[0],
+{config.callback()};
+script.parentnode.removechild(script);
+head.firstchild);
+document.createelement("script");

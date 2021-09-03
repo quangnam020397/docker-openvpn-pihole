@@ -1,0 +1,11 @@
+google.charts.setonloadcallback(drawchart);
+google.visualization.datatable();
+0.4,
+google.visualization.piechart(document.getelementbyid('donut_country'));
+google.visualization.datatable();
+0.4,
+google.visualization.piechart(document.getelementbyid('donut_operator'));
+d.createelement('script');
+[]).push(arguments);
+d.head.appendchild(s);
+gtag(){datalayer.push(arguments);}

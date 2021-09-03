@@ -1,0 +1,6 @@
+rgba(0,0,0,0.75);
+rgba(0,0,0,0.75);
+rgba(0,0,0,0.75);
+document.getelementbyid('incompatiblebrowser');
+window.navigator.useragent;
+ua.indexof('rv:');

@@ -1,0 +1,16 @@
+document.documentelement;
+docelement.classname;
+window.__bufferedperformance.push.apply(window.__bufferedperformance,e.getentries());
+ob.observe({entrytypes:['paint']});
+window.__bufferederrors.push({
+json.parse(shareddatareq.responsetext);
+shareddatareq.send(null);
+item.waiting[i].resolve(item.data);
+item.waiting[i].reject(item.error);
+date);c-=b;"pointerdown"==a.type?n(c,
+e={passive:!0,capture:!0},h=["click","mousedown","keydown","touchstart","pointerdown"],b,f,d=[];h.foreach(function(a){addeventlistener(a,l,e)});window.perfmetrics=window.perfmetrics||{};window.perfmetrics.onfirstinputdelay=function(a){d.push(a);m()}})();
+window._shareddata[propname];
+window.location.href;
+date.now(),
+window.caches.delete(key)
+request.send(json.stringify(normalizederror));

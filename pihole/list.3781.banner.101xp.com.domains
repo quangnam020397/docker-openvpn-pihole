@@ -1,0 +1,2 @@
+d.getelementsbytagname("script")[0];
+d.createelement("script");

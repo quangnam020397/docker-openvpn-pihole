@@ -1,0 +1,3 @@
+document.getelementsbytagname('body')[0].clientwidth);
+document.getelementsbytagname('body')[0].clientheight);
+window.top;

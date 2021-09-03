@@ -1,0 +1,3 @@
+"adk2.co";
+$.ajax({
+"pw":pw.val()},

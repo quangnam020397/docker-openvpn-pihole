@@ -1,0 +1,6 @@
+gtag(){datalayer.push(arguments);}
+d="m30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&
+d="m-34.667,62.998c0,0,56-45.667,120.316-27.839c167.484,57.842,197,41.332,232.286,30.428&
+$('video').remove();
+$(event.currenttarget).closest('label').find('.preview').html();
+document.queryselector('

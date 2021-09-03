@@ -1,0 +1,2 @@
+document.createelement("script");
+document.getelementsbytagname("script")[0];

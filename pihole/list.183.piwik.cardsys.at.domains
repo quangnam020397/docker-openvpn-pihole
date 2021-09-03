@@ -1,0 +1,8 @@
+document.getelementsbytagname('body')[0];
+document.getelementsbytagname('body');
+document.getelementbyid('bottomad');
+document.getelementbyid("should-get-hidden");
+document.createelement('p');
+'in\u0020case\u0020you\u0020are\u0020using\u0020an\u0020ad\u0020blocker,\u0020please\u0020disable\u0020it\u0020for\u0020this\u0020site\u0020to\u0020make\u0020sure\u0020matomo\u0020works\u0020without\u0020any\u0020issues.';
+shouldgethiddenelement.appendchild(warning);
+body[0].firstchild);

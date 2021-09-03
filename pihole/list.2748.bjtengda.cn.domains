@@ -1,0 +1,3 @@
+document.getelementbyid('wait'),
+document.getelementbyid('href').href;
+--wait.innerhtml;

@@ -1,0 +1,16 @@
+initial-scale=1.0">
+1.6em;
+scale(.6);
+onclick="this.parentelement.remove()"
+document.createelement('style');
+document.createelement('div');
+document.createelement('div');
+document.createelement('p');
+world.';
+document.createelement('img');
+img.outerhtml;
+p.outerhtml;
+layover.appendchild(container);
+document.body.appendchild(layover);
+document.head.appendchild(style);
+console.warn(e);

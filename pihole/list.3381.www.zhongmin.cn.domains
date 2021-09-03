@@ -1,0 +1,4 @@
+zm-attr="cartid::{items.cartid}">
+items.list">
+zm-if="{item.preferinfo!=undefined}">
+document.createelement("script");

