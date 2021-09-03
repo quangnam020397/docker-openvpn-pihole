@@ -82,8 +82,9 @@ services:
     depends_on: 
       - pihole
       - openvpn
-    networks: 
-      - nw_tnms
+     networks:
+       vpn-net:
+         ipv4_address: 172.110.1.5
 
 # docker network create --driver=bridge --subnet=172.110.1.0/24 --gateway=172.110.1.1 vpn-net
 networks:
