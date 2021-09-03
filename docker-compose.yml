@@ -10,6 +10,7 @@ services:
      ports:
        - "1194:1194/udp"
        - "1194:1194/tcp"
+       - "943:943/tcp"
      environment:
       #  - VIRTUAL_PORT=${VIRTUAL_PORT_OPENVPN}
       #  - VIRTUAL_HOST=${VIRTUAL_HOST_OPENVPN}
@@ -67,6 +68,22 @@ services:
        options:
          max-size: "5m"
          max-file: "3"
+
+  nginx:
+    container_name: nginx
+    restart: always
+    build:
+      context: ./nginx
+      dockerfile: ./DockerFile
+    hostname: nginx
+    ports: 
+      - 80:80
+      - 443:443
+    depends_on: 
+      - pihole
+      - openvpn
+    networks: 
+      - nw_tnms
 
 # docker network create --driver=bridge --subnet=172.110.1.0/24 --gateway=172.110.1.1 vpn-net
 networks:
