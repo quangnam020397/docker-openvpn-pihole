@@ -1,10 +1,3 @@
-window.pageyoffset?e=window.pageyoffset:document.body&&document.body.scrolltop?e=document.body.scrolltop:document.documentelement&&
-e<=a.f&&0<=c+a.f}
-c=a.parentnode,e=a.nextsibling;c&&c.removechild(a);a.c&&(a.getattribute=a.c);a.removeattribute("onload");a.tagname&&"img"==a.tagname&&g.criticalimages&&f(a,"load",function(){g.criticalimages.checkimageforcriticality(this);b.b&&(b.a--,b.a||g.criticalimages.checkcriticalimages())});a.removeattribute("data-pagespeed-lazy-src");a.removeattribute("data-pagespeed-lazy-replaced-functions");
-a.a?null!=a.a(b):null!=a.getattribute(b)}
-this.c(a)},a.setattribute("data-pagespeed-lazy-replaced-functions","1"))}
-image).src=b);f(window,
-"scroll",d);f(window,"resize",d)};g.lazyloadinit=g.o;})();
 onclick="$j('.modal').bpopup();">
 onclick="$j('.modal').bpopup();">
 onclick="$j('.modal').bpopup();">

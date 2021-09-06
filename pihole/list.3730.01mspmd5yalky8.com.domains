@@ -1,5 +1,5 @@
 c=math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.sx=function(a){google.sy.push(a)};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadall=function(a,b){google.lq.push([a,b])};google.bx=!1;google.lx=function(){};}).call(this);google.f={};(function(){
-a}a=!1}a&&b.preventdefault()},!0);}).call(this);(function(){google.hs={h:true,peh:true,sie:false};})();(function(){google.c={btfi:false,frt:false,gip:false,gl:true,lhc:false,ll:true,nli:false,timl:true,wve:false};(function(){
+a}a=!1}a&&b.preventdefault()},!0);}).call(this);(function(){google.hs={h:true,peh:true,sie:false};})();(function(){google.c={btfi:false,frt:false,gip:true,gl:true,lhc:false,ll:true,nli:false,timl:true,wve:false};(function(){
 a?a.removeeventlistener(b,c,d||!1):a.attachevent&&a.detachevent("on"+b,c)}
 r(a){return"hidden"===document.visibilitystate?(google.c.fh=a,!0):!1}
 u=function(a){a&&e.google.aft(a.target)};h(document.documentelement,"load",u,!0);google.c.glu=function(){k(document.documentelement,"load",u,!0)}};}).call(this);})();(function(){

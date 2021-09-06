@@ -4,7 +4,7 @@ gtag(){datalayer.push(arguments);}
 f=d.getelementsbytagname(s)[0],
 j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
 c4a.run('b600b6b8-b1cc-4dda-840c-880baa8bb337');
-s.server="192app8";
+s.server="192app6";
 s.pagename="home:home:homepage";
 s.prop7="home";
 s.channel=s.prop6="home";

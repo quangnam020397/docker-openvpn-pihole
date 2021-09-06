@@ -39,7 +39,7 @@ owl.children().sort(function(){
 }).each(function(){
 $(this).appendto(owl);
 $('.carousel6posts').owlcarousel({
-$.cookie('exithint25113');
+$.cookie('exithint25120');
 a.pathname+""+a.search;
 history.replacestate(null,document.title,a.pathname+"
 history.pushstate(null,document.title,link_atual);

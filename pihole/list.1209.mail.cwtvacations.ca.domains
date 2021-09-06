@@ -8,7 +8,7 @@ $.ajax({
 data.forceregister)
 'cwtvacations.ca']);
 _gaq.push(['_trackpageview']);
-nonce='ryzmoyfk'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+nonce='ujenfflx'>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 f=d.getelementsbytagname(s)[0],
 j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=
 n&&j.setattribute('nonce',n.nonce||n.getattribute('nonce'));f.parentnode.insertbefore(j,f);

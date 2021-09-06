@@ -2,7 +2,7 @@ defaultsettingsvalues.moneyformat);
 defaultsettingsvalues.numberformat);
 defaultsettingsvalues.pointsformat);
 moneyformat.format('1.1').charat(1);
-"2021-09-03t08:33:56.3590183z";
+"2021-09-05t08:58:16.9011506z";
 ajax.callblock(true,this.base,"updatecustomeragreementrevisionnumber",p);},
 sblocalizationlib.init({
 authorizationclient.init(authclientconfig);
