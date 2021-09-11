@@ -1,2 +1,0 @@
-_gaq.push(['_trackpageview']);
-window.cookieconsent.initialise({

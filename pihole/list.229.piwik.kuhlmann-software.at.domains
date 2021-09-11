@@ -1,8 +1,0 @@
-content="app-id=org.piwik.mobile2">
-$('input').placeholder();
-document.getelementsbytagname('body')[0];
-document.getelementsbytagname('body');
-document.getelementbyid('bottomad');
-document.createelement('h3');
-'in\x20case\x20you\x20are\x20using\x20an\x20ad\x20blocker,\x20please\x20disable\x20it\x20for\x20this\x20site\x20to\x20make\x20sure\x20piwik\x20works\x20without\x20any\x20issues.';
-body[0].appendchild(warning);

@@ -1,8 +1,0 @@
-today.settime(today.gettime());
-initial-scale=1.2");
-cookieprops=cookieprops+".an-1";
-cookieprops=cookieprops+".ad-1";
-document.getelementbyid("cookiewarning-block").style.display="none";
-$(window).scrolltop(0);
-$(window).scroll(function(){
-st_tip_settooltip.st_tip_preparetooltip("*.tooltip-activator");

@@ -1,3 +1,0 @@
-encodeuricomponent(document.referrer);
-window.location.href,
-document.referrer;

@@ -1,3 +1,0 @@
-$('.counter').each(function(){
-string($(this).attr("data-to")).split(".").join("");
-$(this).countto({

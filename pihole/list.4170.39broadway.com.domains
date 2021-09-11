@@ -1,4 +1,0 @@
-.tog').click(function(){
-$(this).children('i').toggleclass('fa-pencil');
-req.send(null);
-again.");

@@ -1,7 +1,0 @@
-document.createelement('script');
-document.body.appendchild(script);
-datalayer.push(arguments);
-localstorage.getitem(ga_local_storage_key);
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-f=d.getelementsbytagname(s)[0],
-j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=

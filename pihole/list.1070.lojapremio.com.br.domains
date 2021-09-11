@@ -1,4 +1,0 @@
-onclick="$j('.modal').bpopup();">
-onclick="$j('.modal').bpopup();">
-onclick="$j('.modal').bpopup();">
-a").live("mouseenter",function(){endereco_imagem_thumb=$j(this).find("img").attr("src");$j("

@@ -1,3 +1,0 @@
-$('.popup-with-zoom-anim').magnificpopup({
-event.preventdefault();
-$('html,body').animate({scrolltop:$(this.hash).offset().top},1000);

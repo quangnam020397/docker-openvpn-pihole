@@ -1,9 +1,0 @@
-:style="{backgroundimage:'url('+item.picurl+'!imbig)'}"
-onclick="$('.pupop-show').fadeout()"
-'.swiper-pagination',
-'.swiper-button-next',
-'.swiper-button-prev',
-$.post(
-$.post(
-console.log(res)
-res.list

@@ -1,6 +1,0 @@
-initial-scale=1.0">
-$(document).ready(function(){
-$window.scrolltop();
-$window.trigger('scroll');
-$('.article-image').height();
-$(this.hash);

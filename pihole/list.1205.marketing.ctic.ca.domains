@@ -1,8 +1,0 @@
-0.95);
-.tparrows.tp-leftarrow.default,
-0.7);
-a.add_to_cart_button,
-a.add_to_cart_button:hover,
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-f=d.getelementsbytagname(s)[0],
-j=d.createelement(s),dl=l!='datalayer'?'&l='+l:'';j.async=true;j.src=

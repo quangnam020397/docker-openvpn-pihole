@@ -1,4 +1,0 @@
-текста.';
-((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
-(s.colordepth?s.colordepth:s.pixeldepth))+";u"+escape(d.url)+
-";h"+escape(d.title.substring(0,150))+";"+math.random()})

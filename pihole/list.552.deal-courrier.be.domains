@@ -1,3 +1,0 @@
-"www.deal-courrier.be";
-$.ajax({
-"pw":pw.val()},

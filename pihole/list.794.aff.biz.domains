@@ -1,6 +1,0 @@
-(a[n]=a[n]||[]).hide=h;settimeout(function(){i();h.end=null},c);h.timeout=c;
-})(window,document.documentelement,'async-hide','datalayer',4000,
-(min-width:1150px){.ellbpf{position:absolute;width:300px;top:10px;background:white;color:
-a.link{color:
-a.link:hover{color:
-span{font-family:'inter',sans-serif;font-size:12px;line-height:1.33;font-weight:normal;color:

@@ -1,5 +1,0 @@
-document.cookie.match(reg_ck1);
-document.cookie.match(reg_ck2);
-!location.href.match(excludeindex)){
-encodeuricomponent(location.href);
-console.log(err);

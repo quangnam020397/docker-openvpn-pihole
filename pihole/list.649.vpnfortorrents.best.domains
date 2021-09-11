@@ -1,3 +1,0 @@
-aos.init({
-(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-date();k=e.createelement(t),a=e.getelementsbytagname(t)[0],k.async=1,k.src=r,a.parentnode.insertbefore(k,a)})

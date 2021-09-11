@@ -1,6 +1,0 @@
-initial-scale=1.0">
-content="0.5">
-document.queryselector('meta[name="viewport"]');
-meta.setattribute('homon','true');
-t.setattribute("exparams","category=&userid=&aplus&yunid=&yunpk=&channel=&cps=");
-d.getelementsbytagname("head")[0].appendchild(t);
