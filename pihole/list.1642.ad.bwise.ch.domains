@@ -1,6 +1,0 @@
-document.inpform.txtmainlogin.focus();
-document.inpform.txtmainpassword.focus();
-document.inpform;
-document.inpform.txtmainlogin.focus();
-document.inpform.txtmainpassword.focus();
-hex_md5(frm.txtmainpassword.value);

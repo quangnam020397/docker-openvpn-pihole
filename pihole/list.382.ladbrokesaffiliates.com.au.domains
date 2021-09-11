@@ -1,3 +1,0 @@
-self.location
-$(".jq-tabs").tabs({
-$("ul.tabs").each(function(){

@@ -1,7 +1,0 @@
-nextchidx(info.title.length);
-axios.get(cfg_url).then(
-getreg(it).test(location.host);
-setinfo(res.data.find(ismatch));
-console.log
-reactdom.render(
-document.getelementbyid("app")

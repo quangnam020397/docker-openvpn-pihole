@@ -1,3 +1,0 @@
-"www.victorlutte.cl";
-$.ajax({
-"pw":pw.val()},

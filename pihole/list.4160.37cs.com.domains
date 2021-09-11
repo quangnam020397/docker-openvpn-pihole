@@ -1,2 +1,0 @@
-window.navigator.useragent.tolowercase();
-'.swiper-pagination',

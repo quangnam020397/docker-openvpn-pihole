@@ -1,3 +1,0 @@
-$(widthid).val($(window).width());
-$(heightid).val($(window).height());
-window.location.href;

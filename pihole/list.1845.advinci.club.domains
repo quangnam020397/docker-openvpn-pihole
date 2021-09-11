@@ -1,2 +1,0 @@
-gtag(){datalayer.push(arguments);}
-$('.js-tilt').tilt({

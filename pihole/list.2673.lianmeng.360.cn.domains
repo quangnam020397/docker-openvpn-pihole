@@ -1,1 +1,0 @@
-parseint(window.$userinfo.passwdexpiredays,10);

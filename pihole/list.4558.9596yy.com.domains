@@ -1,4 +1,0 @@
-document.createelement("script");
-document.createelement('script');
-window.location.protocol.split(':')[0];
-document.getelementsbytagname("script")[0];

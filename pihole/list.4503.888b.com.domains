@@ -1,2 +1,0 @@
-datalayer.push(arguments);
-gtag(){datalayer.push(arguments);}

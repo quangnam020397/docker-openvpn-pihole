@@ -1,4 +1,0 @@
-_paq.push(['trackpageview']);
-_paq.push(['enablelinktracking']);
-u+'matomo.php']);
-s=d.getelementsbytagname('script')[0];

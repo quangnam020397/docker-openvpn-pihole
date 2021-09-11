@@ -1,6 +1,0 @@
-maximum-scale=1.0">
-amap.geolocation({
-geolocation.getcurrentposition(function(status,result){
-$.ajax({
-jsonp.data.station.areaid;
-document.createelement("script");

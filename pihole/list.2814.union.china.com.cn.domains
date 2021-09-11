@@ -1,3 +1,0 @@
-}).hover(function(){
-$('.owl-buttons').show();
-$('.owl-buttons').hide();

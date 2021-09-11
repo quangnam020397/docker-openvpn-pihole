@@ -1,4 +1,0 @@
-maximum-scale=1.0">
-json.parse(xhr.responsetext);
-xhr.send();
-cookiecheck=xcommon.getcookie("cookiecheck");if(cookiecheck!=="true"){$("

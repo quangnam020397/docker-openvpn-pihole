@@ -1,3 +1,0 @@
-gtag(){datalayer.push(arguments);}
-gtag(){datalayer.push(arguments);}
-if(jquery('.success-message:contains("thank")').is(":visible"))
