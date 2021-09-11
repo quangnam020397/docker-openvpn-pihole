@@ -38,6 +38,7 @@ git clone https://github.com/mr-bolle/docker-openvpn-pihole.git
 cd docker-openvpn-pihole && bash openvpn-install.sh
 ```
 
+
 #### 1.2. OpenVPN create certificate and first user [Source](https://github.com/kylemanna/docker-openvpn/blob/master/docs/docker-compose.md)
 
 Follow User Entry you have to made
